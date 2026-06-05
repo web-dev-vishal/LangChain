@@ -1,0 +1,15 @@
+Cricket is a bat-and-ball game played between two teams of eleven players on a field,
+at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end.
+Each wicket consists of two bails balanced on three stumps.
+
+The game has two teams that take turns batting and fielding.
+The batting team scores runs by hitting the ball and running between the wickets,
+while the fielding team tries to dismiss the batters.
+
+Cricket is particularly popular in South Asia, Australasia, the United Kingdom,
+southern Africa, and the West Indies. The International Cricket Council (ICC)
+governs international cricket.
+
+A match has two innings per side in Test cricket, while One Day Internationals
+and Twenty20 matches have one innings each. Cricket originated in England
+and is now played and followed worldwide.

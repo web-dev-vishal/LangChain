@@ -71,3 +71,9 @@ service_account.json
 # OpenAI / Anthropic / Google API keys
 config.local.py
 settings.local.py
+# JS
+node_modules/
+.env
+*.db
+chroma_db/
+

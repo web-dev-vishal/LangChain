@@ -1,0 +1,4 @@
+Human: What is deep learning?
+AI: Deep learning is a subset of machine learning that uses neural networks with many layers to learn representations of data.
+Human: Can you give an example?
+AI: Sure! Image recognition in apps like Google Photos uses deep learning to identify objects and people in photos.
