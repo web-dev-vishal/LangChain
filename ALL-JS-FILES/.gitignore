@@ -1,0 +1,12 @@
+# Secret keys — NEVER commit this file
+.env
+
+# Downloaded AI model files (can be very large)
+hf_cache/
+
+# Node.js dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
